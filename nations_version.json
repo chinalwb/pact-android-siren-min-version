@@ -1,5 +1,9 @@
 {
   "co.pactplatform.nations.development": {
     "minVersionName": "2.3.0"
+  },
+  "co.pactplatform.pactclaims.development": {
+    "minVersionName": "0.1.0"
   }
+  
 }
